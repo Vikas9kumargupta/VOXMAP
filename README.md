@@ -11,7 +11,7 @@ VOXMAP revolutionizes geographic information systems by combining cutting-edge v
 ## 🚀 Key Features
 
 ### 🎙️ Advanced Voice Control
-- **SpeechKITT** integration for faster, more stable voice recognition than Google/Microsoft alternatives  
+- **SpeechKITT** integration for faster, more stable voice recognition  
 - Hands-free **map navigation** and **location search**  
 - Voice-activated **layer toggling** and **marker placement**
 
@@ -21,14 +21,6 @@ VOXMAP revolutionizes geographic information systems by combining cutting-edge v
 - Multiple view options: *Satellite*, *Terrain*, *Custom layers*  
 - **Dynamic grid customization**  
 - **Marker placement** for points of interest
-
-### ♿ Universal Accessibility
-- **High Contrast Mode** for enhanced visibility  
-- **Dyslexia-friendly font** options  
-- Adjustable **text size** and **spacing**  
-- Customizable **saturation**, **alignment**, and **cursor** settings  
-- **Animation disable** option for reduced motion  
-- **UserWay** service integration for comprehensive accessibility
 
 ---
 
@@ -46,6 +38,7 @@ VOXMAP revolutionizes geographic information systems by combining cutting-edge v
 
 ### Development Tools
 - PyCharm IDE
+- VSCode
 - GitHub for version control
 - Continuous Integration/Deployment pipelines
 
@@ -55,7 +48,7 @@ VOXMAP revolutionizes geographic information systems by combining cutting-edge v
 
 ### Prerequisites
 - Modern web browser (Chrome, Firefox, Edge)
-- Microphone for voice commands (optional)
+- Microphone for voice commands 
 
 ### Installation
 
@@ -72,7 +65,7 @@ python app.py
 
 1. Open the application to initialize the **Leaflet** map with the default view.
 2. Use voice commands such as:
-   - `"Find New York City"` — to search locations
+   - `"Find Lucknow City"` — to search locations
    - `"Show satellite view"` — to toggle map layers
    - `"Mark this location"` — to place a marker
 3. Manually adjust zoom levels and map layers as needed.
@@ -98,10 +91,4 @@ Please **fork** the repository and submit **pull requests**.
 For major changes, open an **issue** first to discuss the proposed updates.
 
 ---
-
-![image](https://github.com/user-attachments/assets/d5fca5ef-7ffa-48aa-8a50-9053bb5f1724)
-![image](https://github.com/user-attachments/assets/4b28081f-80b4-44ee-913d-319ab73f6b44)
-![image](https://github.com/user-attachments/assets/d69102b6-210e-48f2-876f-a96b823888bb)
-![image](https://github.com/user-attachments/assets/d91e9a0a-f73a-43e9-a244-850cabf89584)
-![image](https://github.com/user-attachments/assets/830cc56a-d642-4437-be68-7f1cd077f0e4)
 
